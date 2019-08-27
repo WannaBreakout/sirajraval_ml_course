@@ -36,7 +36,7 @@ pip install tensorflow
 ### Learn Python 
 
 Read Pages 1-56 of 
-["Learn Python the Hard Way"](https://github.com/rodrigoms2004/sirajraval_ml_course/tree/master/Week1/docs/Week1/docs/Learn_Python_3_The_Hard_Way_en.pdf)
+["Learn Python the Hard Way"](https://github.com/rodrigoms2004/sirajraval_ml_course/blob/master/Week1/docs/Learn_Python_3_The_Hard_Way_en.pdf)
 
 
 ### Linear Algebra 
