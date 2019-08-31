@@ -3,15 +3,21 @@
     <!-- Load the latest version of TensorFlow.js -->
     <!-- <script src="https://unpkg.com/@tensorflow/tfjs"></script>
     <script src="https://unpkg.com/@tensorflow-models/mobilenet"></script> -->
+    <!-- <script src="https://unpkg.com/@tensorflow-models/mobilenet@2.0.2"></script> -->
+    <!-- <script src="https://unpkg.com/@tensorflow-models/knn-classifier"></script> -->
 
     <script src="lib/tfjs.min.js"></script>
-    <script src="lib/mobilenet.min.js"></script>
+    <!-- <script src="lib/mobilenet.min.js"></script> -->
+    <script src="lib/mobilenet@2.0.2.min.js"></script>
+    <script src="lib/knn-classifier.min.js"></script>
   </head>
   <body>
     <div id="console"></div>
-    <!-- Add an image that we will use to test -->
-    <img id="img" crossOrigin src="https://i.imgur.com/JlUvsxa.jpg" width=227 height=227/>
-    <!-- Load index.js after the content of the page -->
+    <video autoplay playsinline muted id="webcam" width="224" height="224"></video>
+    <button id="class-a">Add A</button>
+    <button id="class-b">Add B</button>
+    <button id="class-c">Add C</button>
     <script src="index.js"></script>
   </body>
 </html>
+
