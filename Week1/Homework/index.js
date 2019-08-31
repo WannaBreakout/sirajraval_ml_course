@@ -33,13 +33,18 @@ async function app() {
     if (classifier.getNumClasses() > 0) {
       // Get the activation from mobilenet from the webcam.
       const activation = net.infer(webcamElement, 'conv_preds');
+      const res = await net.classify(webcamElement)
+
       // Get the most likely class and confidences from the classifier module.
       const result = await classifier.predictClass(activation);
 
       const classes = ['A', 'B', 'C'] ;
       document.getElementById('console').innerText = `
         prediction: ${classes[result.classIndex]}\n
-        probability: ${result.confidences[result.classIndex]}
+        probability: ${result.confidences[result.classIndex]}\n
+        
+        prediction thing: ${res[0].className}\n
+        probability thing: ${res[0].probability}\n
       `;
     }
 
