@@ -1,0 +1,22 @@
+https://twittersentimentanalysisnltk.herokuapp.com/
+
+
+https://github.com/shangeth/NLTK-Twitter-Sentiment-Analysis
+
+NLTK - Natural Language Tool Kit
+
+Search for flask login
+
+https://textblob.readthedocs.io/en/dev/
+
+
+https://github.com/MaxHalford/flask-boilerplate
+
+
+https://developer.twitter.com
+
+flask-boilerplate/app/views/main.py
+flask-boilerplate/app/templates/index.html
+
+
+https://alpaca.markets

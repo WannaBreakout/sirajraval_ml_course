@@ -54,7 +54,23 @@ https://flask.palletsprojects.com/en/1.1.x/quickstart/
 Keras, image classify
 
 ##############################################################
+Study
 
+https://www.youtube.com/watch?v=FTr3n7uBIuE&t=906s
+
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+
+https://github.com/llSourcell/Convolutional_neural_network/blob/master/convolutional_network_tutorial.ipynb
+
+https://timdettmers.com/2015/03/26/convolution-deep-learning/
+
+
+https://beckernick.github.io/neural-network-scratch/
+
+
+http://cs231n.github.io/convolutional-networks/
+
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
 ##############################################################
 
