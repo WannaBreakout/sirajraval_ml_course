@@ -17,5 +17,5 @@ Finance and Machine Learning
 
 Using Twitter API with NodeJS
 
-[TwitterAPI]()
+[TwitterAPI](https://github.com/rodrigoms2004/sirajraval_ml_course/blob/master/Week2/TwitterAPI/readme.md)
 
