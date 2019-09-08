@@ -20,3 +20,27 @@ flask-boilerplate/app/templates/index.html
 
 
 https://alpaca.markets
+
+curl -X GET \
+    -H "APCA-API-KEY-ID: {YOUR_API_KEY_ID}" \
+    -H "APCA-API-SECRET-KEY: {YOUR_API_SECRET_KEY}"\
+    https://{apiserver_domain}/v2/account
+
+https://docs.alpaca.markets/api-documentation/api-v2/
+
+https://paper-api.alpaca.markets
+
+APCA_API_BASE_URL
+APCA_API_KEY_ID
+APCA_API_SECRET_KEY
+
+PCA-API-KEY-ID 
+
+
+# Paper Trading
+https://paper-api.alpaca.markets
+
+
+
+sudo apt-get install gfortran-7
+

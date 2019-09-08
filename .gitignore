@@ -2,3 +2,4 @@ __pycache__
 node_modules
 credentials.js
 package-lock.json
+.ipynb_checkpoints
