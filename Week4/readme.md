@@ -14,10 +14,11 @@ Healthcare
 ## Reading assignment
 
 Read chapters 3,4, and 5 of this document 
-(documents/jsr-17-task-002_aiforhealthandhealthcare12122017.pdf)
+[AI for Health](https://github.com/rodrigoms2004/sirajraval_ml_course/blob/master/Week4/documents/jsr-17-task-002_aiforhealthandhealthcare12122017.pdf)
+
 
 Read the section titled "AI Applications in Healthcare" of this document
-(documents/RT1_Report.pdf)
+[AI Healthcare](https://github.com/rodrigoms2004/sirajraval_ml_course/blob/master/Week4/documents/RT1_Report.pdf)
 
 ## Data sources
 
