@@ -5,3 +5,6 @@ package-lock.json
 .ipynb_checkpoints
 Week3/Homework/creditcard.csv
 Week4/data/chest-xray-pneumonia.zip
+Week4/Homework/data/input/test
+Week4/Homework/data/input/train
+Week4/Homework/data/input/val

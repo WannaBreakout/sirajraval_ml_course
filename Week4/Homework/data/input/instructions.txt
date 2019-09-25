@@ -1,0 +1,6 @@
+Put folders here:
+test
+train
+val
+
+from (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
