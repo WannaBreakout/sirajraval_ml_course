@@ -4,3 +4,4 @@ credentials.js
 package-lock.json
 .ipynb_checkpoints
 Week3/Homework/creditcard.csv
+Week4/data/chest-xray-pneumonia.zip
